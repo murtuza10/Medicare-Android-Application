@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_region.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_region_three.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_region_three.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grad.jpg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\grad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpeg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\bg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_region_four.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_region_four.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_back.jpg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\app_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.jpeg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\back.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.jpg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_region_one.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_region_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_download.jpeg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\download.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pharmacy.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_pharmacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo2.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\logo2.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_region_two.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_region_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_doctor.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_display_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\layout\\activity_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\murtu\\AndroidStudioProjects\\MediCare\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    }
+]

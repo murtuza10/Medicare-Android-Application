@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediCare</string>
+    <string name="Doc">Doctors</string>
+    <string name="Phar">Pharmacies</string>
+    <string name="Kond">Kondhwa</string>
+    <string name="Dhan">Dhankawadi</string>
+    <string name="Viman">Viman Nagar</string>
+    <string name="Had">Hadapsar</string>
+    <string name="Wel">Welcome!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+</resources>
